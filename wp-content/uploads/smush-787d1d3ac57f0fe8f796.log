@@ -1,0 +1,39 @@
+[2022-05-06 17:32:22 : INFO] - Re_Smush_It_Task with attachment ID : 88, autocreated on : May 06, 2022 05:32:21 
+[2022-05-06 17:38:00 : INFO] - 
+ 
+[2022-05-06 17:38:00 : INFO] - Header for logs at time:  Fri, 06 May 2022 17:38:00 +0000 on http://localhost/wordpress 
+[2022-05-06 17:38:00 : INFO] - WP: 5.9.3 
+[2022-05-06 17:38:00 : INFO] - PHP: 8.1.1 (apache2handler, Windows NT DESKTOP-JAOJI00 10.0 build 22000 (Windows 10) AMD64) 
+[2022-05-06 17:38:00 : INFO] - MySQL: 5.5.5 
+[2022-05-06 17:38:00 : INFO] - WPLANG: en_GB 
+[2022-05-06 17:38:00 : INFO] - Server: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.1 
+[2022-05-06 17:38:00 : INFO] - Outbound connections: N 
+[2022-05-06 17:38:00 : INFO] - safe_mode: 0 
+[2022-05-06 17:38:00 : INFO] - max_execution_time: 120 
+[2022-05-06 17:38:00 : INFO] - memory_limit: 512M (used: 51.1M | 6M) 
+[2022-05-06 17:38:00 : INFO] - multisite: N 
+[2022-05-06 17:38:00 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2022-05-06 17:38:00 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-05-06 17:38:00 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-05-06 17:38:00 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-05-06 17:38:00 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2022-05-06 17:38:00 : INFO] - Task with ID 1 and type (smush) failed with error code invalid_file_type - C:\xampp\htdocs\wordpress/wp-content/uploads/2022/05/Black-13495.mp4 - cannot be optimized, it has an invalid file type 
+[2022-05-06 17:38:00 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-05-06 17:38:00 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-05-06 17:38:00 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-05-06 17:38:00 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-05-06 17:48:05 : INFO] - 
+ 
+[2022-05-06 17:48:05 : INFO] - Header for logs at time:  Fri, 06 May 2022 17:48:05 +0000 on http://localhost/wordpress 
+[2022-05-06 17:48:05 : INFO] - WP: 5.9.3 
+[2022-05-06 17:48:05 : INFO] - PHP: 8.1.1 (apache2handler, Windows NT DESKTOP-JAOJI00 10.0 build 22000 (Windows 10) AMD64) 
+[2022-05-06 17:48:05 : INFO] - MySQL: 5.5.5 
+[2022-05-06 17:48:05 : INFO] - WPLANG: en_GB 
+[2022-05-06 17:48:05 : INFO] - Server: Apache/2.4.52 (Win64) OpenSSL/1.1.1m PHP/8.1.1 
+[2022-05-06 17:48:05 : INFO] - Outbound connections: N 
+[2022-05-06 17:48:05 : INFO] - safe_mode: 0 
+[2022-05-06 17:48:05 : INFO] - max_execution_time: 120 
+[2022-05-06 17:48:05 : INFO] - memory_limit: 512M (used: 51.1M | 6M) 
+[2022-05-06 17:48:05 : INFO] - multisite: N 
+[2022-05-06 17:48:05 : INFO] - openssl: OpenSSL 1.1.1l  24 Aug 2021 
+[2022-05-06 17:48:05 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
